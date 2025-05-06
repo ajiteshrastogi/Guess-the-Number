@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Guess the Number</title>
+  <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <!-- Background overlay for added visual texture -->
+  <div class="bg-overlay"></div>
+  
+  <div class="container">
+    <h1>Guess the Number</h1>
+    <p class="description">Unlock the mystery! Guess the secret number between 1 and 100.</p>
+    
+    <div class="game">
+      <div class="input-area">
+        <input type="text" id="guessInput" placeholder="Your guess...">
+        <button id="guessButton">Submit</button>
+      </div>
+      
+      <div class="info">
+        <p>Guesses Made: <span id="guessesMade">None</span></p>
+        <p>Guesses Left: <span id="guessesLeft">10</span></p>
+        <div class="message" id="message"></div>
+      </div>
+      
+    </div>
+  </div>
+  <script src="./script.js"></script>
+</body>
+</html>

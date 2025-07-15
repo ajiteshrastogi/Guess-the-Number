@@ -3,7 +3,7 @@
 A simple web-based game where the player tries to guess a randomly generated number within a certain range and number of attempts.
 
 ## Live Demo
-Play the game online: [https://guess-the-number-three.vercel.app/](Click here)
+Play the game online: [Click here](https://guess-the-number-three.vercel.app/)
 
 ## How to Play
 1. The game generates a random number within a specified range (e.g., 1 to 100).
@@ -19,10 +19,7 @@ Play the game online: [https://guess-the-number-three.vercel.app/](Click here)
 - Attempt counter
 - Simple and clean user interface
 
-## How to Run
-1. Clone or download this repository.
-2. Open `index.html` in your web browser.
-3. Play the game!
+
 
 ## Technologies Used
 - HTML
@@ -30,4 +27,4 @@ Play the game online: [https://guess-the-number-three.vercel.app/](Click here)
 - JavaScript
 
 ## Author
-- [Your Name Here]
+- [Ajitesh Rastogi]  contact- ajiteshrastogi19@gmail.com
